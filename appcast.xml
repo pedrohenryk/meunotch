@@ -5,5 +5,14 @@
     <link>https://github.com/pedrohenryk/meunotch</link>
     <description>Atualizações do MeuNotch</description>
     <language>pt-br</language>
+    <item>
+      <title>MeuNotch 1.4</title>
+      <pubDate>Sun, 01 Nov 2026 17:59:42 +0000</pubDate>
+      <sparkle:version>6</sparkle:version>
+      <sparkle:shortVersionString>1.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Primeira versão pública: boas-vindas em 4 passos, Ajustes com visual novo, atualização automática, notificações dos apps no notch, clima e cotações na hora, notch que não cobre a barra de menus, timer, espelho e muito mais.</p>]]></description>
+      <enclosure url="https://github.com/pedrohenryk/meunotch/releases/download/v1.4/MeuNotch.dmg" length="5443731" type="application/octet-stream" sparkle:edSignature="ZbIZJHpzEbE6eV4uSqdkjf1zzV3t/naXbNPZDWZmtNOLIBUK5fz3l6OWQ7/IMMMiXUHApuHRndCE9GrPW4lWBw=="/>
+    </item>
   </channel>
 </rss>
