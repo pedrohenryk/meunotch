@@ -6,6 +6,15 @@
     <description>Atualizações do MeuNotch</description>
     <language>pt-br</language>
     <item>
+      <title>MeuNotch 1.5</title>
+      <pubDate>Sun, 01 Nov 2026 18:45:35 +0000</pubDate>
+      <sparkle:version>7</sparkle:version>
+      <sparkle:shortVersionString>1.5</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Versão em inglês (segue o idioma do Mac), Gemini com chave grátis do Google, passo Escolha sua IA nas boas-vindas, Apple Intelligence e conexão com o Claude mais fáceis de achar, e o app oferece se mover para Aplicativos quando aberto direto do instalador.</p>]]></description>
+      <enclosure url="https://github.com/pedrohenryk/meunotch/releases/download/v1.5/MeuNotch.dmg" length="5639587" type="application/octet-stream" sparkle:edSignature="um2mNJ9fxx0lp1EkOba5+NK+xyEepEYeBIgbX2yslVrbltTUJyKevahN8n49/s8hVRSY66dhBGdTSPYhjo/IAw=="/>
+    </item>
+    <item>
       <title>MeuNotch 1.4</title>
       <pubDate>Sun, 01 Nov 2026 17:59:42 +0000</pubDate>
       <sparkle:version>6</sparkle:version>
