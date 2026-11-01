@@ -21,7 +21,7 @@
 - 🎵 **Música** — capa, controles e o que está tocando (Apple Music, Spotify e YouTube Music), num player no estilo da Dynamic Island.
 - 💬 **Notificações dos apps** — mensagens do WhatsApp, e-mails e outros avisos saindo do notch.
 - 📅 **Agenda** — a próxima reunião com contagem regressiva e botão para entrar na chamada.
-- ✦ **IA** — pergunte falando ou digitando; clima e cotações respondidos na hora; corrija ou traduza qualquer texto selecionado (⌥⌘E).
+- ✦ **IA** — pergunte falando ou digitando; clima e cotações respondidos na hora; corrija ou traduza qualquer texto selecionado (⌥⌘E). Funciona com a Apple Intelligence (grátis, no Mac), sua assinatura do Claude ou do ChatGPT, ou o Gemini com uma chave grátis do Google.
 - 📥 **Bandeja de arquivos e clipboard** — arraste arquivos até o notch e recupere tudo o que você copiou (⌥⌘K).
 - ⏱ **Foco** — Pomodoro com Não perturbe, timer, cronômetro e lembretes de água e de pausa para os olhos.
 - 🔊 **Volume e brilho** no notch, no lugar do quadrado do macOS.
@@ -37,7 +37,9 @@
    - abra **Ajustes do Sistema › Privacidade e Segurança**, role até o fim e clique em **Abrir Mesmo Assim**
      ao lado do MeuNotch;
    - confirme com a senha ou o Touch ID.
-4. As **boas-vindas** mostram o que o app faz e pedem só as permissões dos recursos que você escolher.
+4. As **boas-vindas** mostram o que o app faz, ajudam a escolher a IA e pedem só as permissões dos recursos que você escolher.
+
+> Abriu direto do disco do instalador? O MeuNotch oferece se mover para Aplicativos sozinho.
 
 Depois disso, o MeuNotch **se atualiza sozinho**: quando sai uma versão nova, ele avisa e instala com um clique.
 
@@ -45,6 +47,18 @@ Depois disso, o MeuNotch **se atualiza sozinho**: quando sai uma versão nova, e
 
 Sem conta, sem anúncios e sem telemetria. O app só usa a internet para a capa das músicas, para clima e cotações
 quando você pergunta, e para a IA do serviço que você escolher. Notificações e clipboard ficam só no seu Mac.
+
+## In English
+
+MeuNotch turns your Mac's notch into a **Dynamic Island**: music, app notifications (WhatsApp, Mail…), your next
+meeting, an AI you can talk to (Apple Intelligence, Claude, ChatGPT or a free Gemini key), a file Shelf, clipboard
+history, Pomodoro and timers, volume and brightness, and a camera mirror. It follows your Mac's language
+(English or Portuguese).
+
+**[Download MeuNotch for Mac](https://github.com/pedrohenryk/meunotch/releases/latest/download/MeuNotch.dmg)** —
+free, macOS 14 or later, Apple silicon and Intel, with or without a notch. Drag it to Applications and open it. The
+first time, macOS says it can't verify the app: go to **System Settings › Privacy & Security** and click
+**Open Anyway** (only once). After that, MeuNotch updates itself.
 
 ## Versões
 
