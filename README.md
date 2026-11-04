@@ -18,7 +18,9 @@
 
 ## O que ele faz
 
-- 🎵 **Música** — capa, controles e o que está tocando (Apple Music, Spotify e YouTube Music), num player no estilo da Dynamic Island.
+- 🎵 **Música** — capa, controles e o que está tocando (Apple Music, Spotify e YouTube Music), num player no estilo da Dynamic Island, com **letras sincronizadas**.
+- 👀 **Notch com vida** — quando nada está acontecendo, uma Carinha que segue o mouse, um gatinho, o clima ao vivo, uma plantinha que cresce com seus focos, um relógio ou uma aurora. Formato grudado no topo ou **flutuante**, como a Dynamic Island do iPhone.
+- 🖥️ **Em todas as telas** — um notch em cada monitor, sem cobrir os ícones da barra de menus.
 - 💬 **Notificações dos apps** — mensagens do WhatsApp, e-mails e outros avisos saindo do notch.
 - 📅 **Agenda** — a próxima reunião com contagem regressiva e botão para entrar na chamada.
 - ✦ **IA** — pergunte falando ou digitando; clima e cotações respondidos na hora; corrija ou traduza qualquer texto selecionado (⌥⌘E). Funciona com a Apple Intelligence (grátis, no Mac), sua assinatura do Claude ou do ChatGPT, ou o Gemini com uma chave grátis do Google.
@@ -50,8 +52,9 @@ quando você pergunta, e para a IA do serviço que você escolher. Notificaçõe
 
 ## In English
 
-MeuNotch turns your Mac's notch into a **Dynamic Island**: music, app notifications (WhatsApp, Mail…), your next
-meeting, an AI you can talk to (Apple Intelligence, Claude, ChatGPT or a free Gemini key), a file Shelf, clipboard
+MeuNotch turns your Mac's notch into a **Dynamic Island**: music with synced lyrics, app notifications (WhatsApp, Mail…),
+idle animations (a face that follows your pointer, a kitty, live weather…), a floating or attached notch on every display,
+your next meeting, an AI you can talk to (Apple Intelligence, Claude, ChatGPT or a free Gemini key), a file Shelf, clipboard
 history, Pomodoro and timers, volume and brightness, and a camera mirror. It follows your Mac's language
 (English or Portuguese).
 
