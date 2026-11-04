@@ -6,6 +6,15 @@
     <description>Atualizações do MeuNotch</description>
     <language>pt-br</language>
     <item>
+      <title>MeuNotch 1.6.1</title>
+      <pubDate>Wed, 04 Nov 2026 04:39:54 +0000</pubDate>
+      <sparkle:version>9</sparkle:version>
+      <sparkle:shortVersionString>1.6.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Gasta bem menos bateria: com música tocando o MeuNotch caiu de ~16% para menos de 1% de CPU, e parado ele quase não aparece no Monitor de Atividade. Na bateria, as animações desaceleram sozinhas.</p>]]></description>
+      <enclosure url="https://github.com/pedrohenryk/meunotch/releases/download/v1.6.1/MeuNotch.dmg" length="5946390" type="application/octet-stream" sparkle:edSignature="yqODbCcrHUwipuW/V/zmkj5PhG+JFLDt5w+81Yyu9y4tP2UzYmYGXqAXYomeVfd21xleqzTBQjV4LoyFsXu6Bg=="/>
+    </item>
+    <item>
       <title>MeuNotch 1.6</title>
       <pubDate>Wed, 04 Nov 2026 04:17:20 +0000</pubDate>
       <sparkle:version>8</sparkle:version>
