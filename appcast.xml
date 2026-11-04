@@ -6,6 +6,15 @@
     <description>Atualizações do MeuNotch</description>
     <language>pt-br</language>
     <item>
+      <title>MeuNotch 1.6</title>
+      <pubDate>Wed, 04 Nov 2026 04:17:20 +0000</pubDate>
+      <sparkle:version>8</sparkle:version>
+      <sparkle:shortVersionString>1.6</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Notch com vida: Carinha, Olhinhos, Gatinho, Clima ao vivo, Plantinha do foco, Relógio e Aurora. Notch flutuante estilo iPhone, letras sincronizadas, notch em todas as telas sem cobrir a barra de menus, abrir com clique, volume rolando sobre o notch e página Notch nos Ajustes. Correções: travamento com abas do Chrome, falso Caps Lock em teclados Bluetooth, volume e brilho mais confiáveis e menos bateria.</p>]]></description>
+      <enclosure url="https://github.com/pedrohenryk/meunotch/releases/download/v1.6/MeuNotch.dmg" length="5924869" type="application/octet-stream" sparkle:edSignature="uTp7uSC4zx/CvdtoCJLu0znXoOkBF32WtJVQYePJnZIHRthDqq9fTcvHjZagrOAE7r4AkC/58ZbfO/C0jqLhAA=="/>
+    </item>
+    <item>
       <title>MeuNotch 1.5</title>
       <pubDate>Sun, 01 Nov 2026 18:45:35 +0000</pubDate>
       <sparkle:version>7</sparkle:version>
